@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/thak_gaya.iml" filepath="$PROJECT_DIR$/thak_gaya.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/thak_gaya_android.iml" filepath="$PROJECT_DIR$/android/thak_gaya_android.iml" />
+    </modules>
+  </component>
+</project>
